@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840238096205",
+    "project_id": "lepigeonfirebase",
+    "storage_bucket": "lepigeonfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840238096205:android:d201b598dc79b13a7f2104",
+        "android_client_info": {
+          "package_name": "com.dummyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0HG0KFvhvNXkLDs0rJrd3im62bJ42ogo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
